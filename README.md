@@ -24,10 +24,9 @@ The default time control is 3 minutes with 2 seconds of increment. You can chang
 You can chose some basic game options under File-Options. By default you will not lose by time to the AI, you can use as much time as you want. 
 
 **Themes:** 
-
 There are 2 themes included which you can switch between under Board in the menu bar. You can also add your own theme in the gui_theme.py file by chosing image files and other theme settings.
 
-**Useful keyboard shortcuts**
+### Useful keyboard shortcuts
 - **n-key**: Start a new game.
 - **f-key**: Flip the board.
 - **z-key**: Undo the latest move.
