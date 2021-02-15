@@ -47,7 +47,7 @@ Affinity Chess supports the rules of normal chess.
 # AI
 The AI is based on a Negamax algorithm with features/optimizations such as Iterative deepening, Aspiration window, Quiescence search, Null move, and some sorting techniques such as to try PV-line first, Killer moves, MVV-LVA and History moves. Parts regarding Transposition Table and Late Move Reduction are commented out since they currently doens't work.
 
-### Evaluation function
+# Evaluation function
 
 The evaluation function is located in evaluation.py. Some parameters such as the PST values are updated in the move/unmake move functions in gamestate.py. 
 
