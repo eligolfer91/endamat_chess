@@ -17,17 +17,15 @@ Playing Endamat Chess in its own GUI is very simple. You can run the command "py
 
 You move the pieces by dragging and dropping them on the board. All possibles squares for a piece lights up when you start dragging.
 
-**Chose time control**
-
+**Chose time control:** 
 The default time control is 3 minutes with 2 seconds of increment. You can change the time control by Game-Time control in the top menu bar. You can chose to let the engine think to a specific depth per move, use a certain time per move, or put in the total game time (minutes, seconds, increment per move).
 
-**Options**
-
+**Options:** 
 You can chose some basic game options under File-Options. By default you will not lose by time to the AI, you can use as much time as you want. 
 
-**Themes**
+**Themes:** 
 
-There ar e2 themes included which you can change under Board in the menu bar. You can add your own theme in the gui_theme.py file.
+There are 2 themes included which you can switch between under Board in the menu bar. You can also add your own theme in the gui_theme.py file by chosing image files and other theme settings.
 
 **Useful keyboard shortcuts**
 - **n-key**: Start a new game.
