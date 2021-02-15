@@ -41,8 +41,9 @@ Affinity Chess supports the rules of normal chess.
 - [X] Pawn promotion to Queen, Rook, Bishop, or Knight
 - [X] Draw by:
   - 3 fold repetition
-  - Insufficient material
   - 50 move rule
+  
+Draw by insufficient material is not yet implemented.
   
 # AI
 The AI is based on a Negamax algorithm with features/optimizations such as Iterative deepening, Aspiration window, Quiescence search, Null move, and some sorting techniques such as to try PV-line first, Killer moves, MVV-LVA and History moves. Parts regarding Transposition Table and Late Move Reduction are commented out since they currently doens't work.
