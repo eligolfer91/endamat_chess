@@ -8,6 +8,12 @@ Affinity Chess is a chess program/engine written in Python as a hobby project to
 
 # Own GUI
 Playing Endamat Chess in its own GUI is very simple. You can run the command "python gui.py" in the terminal, in the folder where the game is located. Or you can open up gui.py in your favorite IDE and play from there.
+<figure>
+    <img src='https://user-images.githubusercontent.com/59540119/107938077-1cd53380-6f85-11eb-91ed-0051704c616b.png' alt='missing' width="70%" height="70%" />
+    <figcaption><i>Sample view of the Endamat Chess GUI during a game against the AI in the opening stage.</i></figcaption>
+  <br>
+  <br>
+</figure>
 
 You move the pieces by dragging and dropping them on the board. All possibles squares for a piece lights up when you start dragging.
 
