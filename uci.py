@@ -66,7 +66,7 @@ class UCI:
 
             # Engine info
             elif engine_input == 'uci':
-                output('id name Affinity Chess')
+                output('id name Endamat Chess')
                 output('id author Elias Nilsson')
                 output('uciok')
 
