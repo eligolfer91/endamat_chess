@@ -1,5 +1,5 @@
 # Introduction
-Affinity Chess is a chess program/engine written in Python as a hobby project to learn more about programming in general. The program includes a GUI in which you can play against another human or against the built in AI.
+Endamat Chess is a chess program/engine written in Python as a hobby project to learn more about programming in general. The program includes a GUI in which you can play against another human or against the built in AI.
 
 # Getting started
 **Use in external GUI:** In the exe-folder you find the .exe file which you can use to install the engine in an external GUI. You can find all communication and logic in the uci.py file.
