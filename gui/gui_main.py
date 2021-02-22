@@ -11,6 +11,12 @@
 # /////////////////////////////////////////////////////////////////////////////////////////////////////////
 # ---------------------------------------------------------------------------------------------------------
 
+# Import from one step above in case of running through simpler IDE such as IDLE
+import os
+import sys
+up1 = os.path.abspath('..')
+sys.path.insert(0, up1)
+
 import gamestate as gs
 import settings as s
 from ai import Ai
@@ -23,8 +29,6 @@ import pyperclip
 import math
 import cProfile
 import ctypes
-import os
-import sys
 import pygame
 from pygame.locals import HWSURFACE, DOUBLEBUF, RESIZABLE, VIDEORESIZE
 
