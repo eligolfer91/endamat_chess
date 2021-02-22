@@ -4,7 +4,7 @@ Endamat Chess is a chess program/engine written in Python as a hobby project to 
 # Getting started
 **Use in external GUI:** In the exe-folder you find the .exe file which you can use to install the engine in an external GUI. You can find all communication and logic in the uci.py file.
 
-**Use in own GUI:** To use the own GUI you need to (pip) install the following modules:
+**Use in own GUI:** To use the own GUI you need to (pip) install the following modules (tested with Python 3.9.2):
 
 - pygame
 - pyperclip
