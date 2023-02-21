@@ -40,7 +40,7 @@ There are 2 themes included which you can switch between under Board in the menu
 - **p-key**: Pause the game.
 
 # Game features
-Affinity Chess supports the rules of normal chess.
+Endamat Chess supports the rules of normal chess.
 - [X] Checkmate and stalemate detection
 - [X] Castling
 - [X] Enpassant
